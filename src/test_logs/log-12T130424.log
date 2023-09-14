@@ -1,0 +1,23 @@
+1946 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+7160 [main] INFO  org.ait.phonebook.TestBase -- Start testaddContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Le', phone='1234567890'}]
+13227 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProviderWithCSV
+13227 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+13228 [main] ERROR org.ait.phonebook.TestBase -- *******************************
+13231 [main] INFO  org.ait.phonebook.TestBase -- Start testaddContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Manuel', phone='1234567890'}]
+29250 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProviderWithCSV
+29250 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+29250 [main] ERROR org.ait.phonebook.TestBase -- *******************************
+29252 [main] INFO  org.ait.phonebook.TestBase -- Start testaddContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Manuelllllllllllllllllllllllllllll', phone='1234567890'}]
+43716 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProviderWithCSV
+43716 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+43716 [main] ERROR org.ait.phonebook.TestBase -- *******************************
+43718 [main] INFO  org.ait.phonebook.TestBase -- Start testaddContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Manuel-Le', phone='1234567890'}]
+58150 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProviderWithCSV
+58150 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+58150 [main] ERROR org.ait.phonebook.TestBase -- *******************************
+58152 [main] INFO  org.ait.phonebook.TestBase -- Start testaddContactPositiveTestFromDataProviderWithCSV with data: [Contact{name='Manuel Le', phone='1234567890'}]
+72941 [main] INFO  org.ait.phonebook.TestBase -- PASSED: addContactPositiveTestFromDataProviderWithCSV
+72941 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+72941 [main] ERROR org.ait.phonebook.TestBase -- *******************************
